@@ -54,6 +54,18 @@
   --text-color: white;
 }
 
+.note-small {
+  height: 10rem;
+}
+
+.note-medium {
+  height: 15rem;
+}
+
+.note-large {
+  height: 20rem;
+}
+
 @theme inline {
   --radius-sm: calc(var(--radius) - 4px);
   --radius-md: calc(var(--radius) - 2px);
